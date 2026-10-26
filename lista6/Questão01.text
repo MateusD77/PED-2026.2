@@ -1,0 +1,20 @@
+a) Significado de LIFO e FIFO
+Uma pilha segue a regra LIFO (Last In, Fist Out), que significa "o último a entrar é o primeiro a sair". 
+Portanto, o elemento inserido mais recentemente será o primeiro a ser removido.
+
+Uma fila segue a regra FIFO (First In, First Out), que significa “o primeiro a entrar é o primeiro a sair”. 
+Assim, o elemento que entrou primeiro será o primeiro a ser removido.
+
+b) Controle das pontas
+A pilha precisa controlar apenas uma ponta, chamada topo, pois tanto a inserção quanto
+a remoção acontecem nesse local.
+
+A fila precisa controlar duas pontas: a frente, de onde os elementos são removidos, e o fundo,
+onde novos elementos são inseridos.
+
+c) Exemplos do dia a dia
+Um exemplo de pilha é uma pilha é uma pilha de livros: para retirar um livro que está embaixo, primeiro
+é necessário retirar os livros que estão acima dele.
+
+Um exemplo de fila é a de veículos em um pedágio: normalmente, o veículo que chega primeiro
+é atendido primeiro.
